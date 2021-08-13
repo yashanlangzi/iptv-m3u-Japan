@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 ,Animax 越南语字幕
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+#EXTINF:-1 ,Animax 越南语字幕 备用地址
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 ,AT-X (480p)
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 ,BS TV Tokyo (1080p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 ,CGNTV Japan (720p)
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 ,Fuji TV (540p)
+https://fujitv.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 ,Fuji TV 很卡备用
+http://203.162.235.41:16904
+#EXTINF:-1 ,GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 ,GTN Typhome (English Subs) (720p) [Not 24/7]
+https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
+#EXTINF:-1 ,Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 ,NHK综合频道 NHKG (540p)
+https://nhk.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 ,NHK综合频道 NHKG 高清很卡备用
+http://203.162.235.41:16903
+#EXTINF:-1 ,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 ,NHK WORLD Japan (1080p)备用
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 ,NHK World Japan (720p)备用
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 ,NHK World Japan(720p)备用2
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 ,NHK World Japan 中文机翻字幕 (720p)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,NTV Nippon TV (540p)
+https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 ,Nippon TV 高清很卡备用
+http://203.162.235.41:16905
+#EXTINF:-1 ,NTV Nippon TV News 24 (480p)
+https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
+#EXTINF:-1 ,NTV Nippon TV News 24 (480p)备用
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,TBS (540p)
+https://tbs.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 ,TBS 高清很卡备用
+http://203.162.235.41:16907
+#EXTINF:-1 ,Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 ,Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 ,Weather News (BS | WNI) (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 ,Weather News(BS | WNI) (720p)备用
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 ,Shop Channel(720p)
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 ,Shop Channel (720p)备用
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 ,TV Asahi 高清很卡
+http://203.162.235.41:16906
+#EXTINF:-1 ,NHK BS1 高清很卡
+http://203.162.235.41:16909
+#EXTINF:-1 ,NHK BS Premium 高清很卡
+http://203.162.235.41:16910
+#EXTINF:-1 ,BS-TBS 高清很卡
+http://203.162.235.41:16913
+#EXTINF:-1 ,BS-NipponTV 高清很卡
+http://203.162.235.41:16912
+#EXTINF:-1 ,BS Asahi 高清很卡
+http://203.162.235.41:16914
+#EXTINF:-1 ,BS TV Tokyo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 ,BS Fuji 高清很卡
+http://203.162.235.41:16911
+#EXTINF:-1 ,WOWOWプライム (Wowow Prime) 高清很卡
+http://203.162.235.41:16916
+#EXTINF:-1 ,GAORA 体育频道
+rtmp://161.202.204.248/sat/jp011
+#EXTINF:-1 ,QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
